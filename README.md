@@ -2,8 +2,8 @@
 a cross-platform web rendering engine
 
 ## Progress:
-- [ ] Html parsing (DOM)
-- [ ] Css parsing (CSSOM)
+- [X] Html parsing (DOM)  (Via AngleSharp)
+- [X] Css parsing (CSSOM) (Via AngleSharp)
 - [ ] Render tree creation
 - [ ] Layout engine
 - [ ] Rendering
